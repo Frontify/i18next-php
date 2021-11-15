@@ -1,6 +1,6 @@
 # i18next-php
 
-<img src="https://github.com/pkly/i18next-php/workflows/Tests/badge.svg">
+<img src="https://github.com/exactcure/i18next-php/workflows/Tests/badge.svg">
 
 A port of [i18next](https://www.i18next.com/) in PHP. With a rest API. (coming soon \[tm\])
 
@@ -58,7 +58,7 @@ $i18n->t('deeper.key'); // "Depp value"
 
 Simply enter your project directory and run
 
-`composer require pkly/i18next-php`
+`composer require exactcure/i18next-php`
 
 ### Todo
 
@@ -66,8 +66,4 @@ Simply enter your project directory and run
 
 #### Packagist
 
-Visit the page [here](https://packagist.org/packages/pkly/i18next-php)
-
-#### Donate
-
-If you want feel free to buy me a coffee [by clicking here](https://paypal.me/pklytastic?locale.x=en_US)
+Visit the page [here](https://packagist.org/packages/exactcure/i18next-php)
